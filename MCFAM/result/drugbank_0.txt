@@ -1,0 +1,1 @@
+Epoch	Time(sec)	Loss_train	AUC_dev	PRC_dev	Precison_dev	Recall_dev

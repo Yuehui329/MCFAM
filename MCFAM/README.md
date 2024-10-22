@@ -21,4 +21,3 @@ an end-to-end deep learning-based method named MCFAM is developed to predict DTI
 
 ## Contact
 if you have any questions or suggestions with the codes, please let us know, Contact Yuehui Zhang at zyh13052@163.com
->>>>>>> 2fae0d1 (first commit)

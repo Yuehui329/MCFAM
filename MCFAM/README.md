@@ -2,8 +2,8 @@
 # MCFAM
 project
 =======
-## IIFDTI
-an end-to-end deep learning-based method named IIFDTI is developed to predict DTIs based on independent features of drug-target pairs and interactive features of their substructures.
+## MCFAM
+an end-to-end deep learning-based method named MCFAM is developed to predict DTI by utilizing interaction information and addressing data scarcity through multi-level collaborative fusion and synthetic augmentation modules.
 
 ## Requirements
 - python >= 3.5
